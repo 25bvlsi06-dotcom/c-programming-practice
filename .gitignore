@@ -1,0 +1,5 @@
+# Ignore compiled files
+*.exe
+
+# Ignore temporary files
+tempCodeRunnerFile.c

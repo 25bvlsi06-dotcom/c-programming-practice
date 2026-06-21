@@ -9,7 +9,9 @@ int main (){
           if (is_sunday==1 && is_snowing==1)
           printf("you can enjoy and have some fun\n");
 
-          if (is_sunday==1 && is_snowing==0)
+             if (is_sunday==1 && is_snowing==0)
+             printf("you can enjoy and have some fun\n");
+                if (is_sunday==0 && is_snowing==1)
           printf("you have to do work then enjoy holiday\n");
           if (is_sunday==0 && is_snowing==1)
           printf("you have to stay at home and enjoy the snow\n");
